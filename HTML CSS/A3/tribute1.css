@@ -1,0 +1,39 @@
+
+
+body {
+  background-color:white;
+  font-family : Times New Roman;
+}
+
+#gandhi_image{
+  width: 500px;
+  margin-bottom : 25px;
+  margin-left: 25px;
+
+}
+h1 { 
+  color: brown;
+  text-align: center;
+
+}
+div{
+  background-color:lightslategray;
+  color:black;
+  padding:20px;
+  margin: 20px 50px 20px 50px;
+}
+h5{
+  font-style: italic;
+  font-size: medium;
+  text-align: center;
+}
+.center{
+  height:50%;
+  display:flex;
+  align-items: right;
+  justify-content: center;
+  background-color:linen;
+}
+img{
+  background-color:black;
+}
